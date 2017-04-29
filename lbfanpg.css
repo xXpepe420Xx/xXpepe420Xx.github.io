@@ -1,0 +1,11 @@
+Body {
+	background-image: url('background.jpg');
+	Color: yellow;
+	background-size: 50px 50px;
+	background-attachment: fixed;
+	font-face:Comic Sans MS;
+}
+#cons {
+	vertical-align: 100px;
+}
+

@@ -1,0 +1,11 @@
+Body {
+	background-image: url('memback.bmp');
+	Color: yellow;
+	background-size: 50px 50px;
+	background-attachment: fixed;
+	font-face:Comic Sans MS;
+}
+#text {
+	vertical-align: 100px;
+	align: center;
+}
