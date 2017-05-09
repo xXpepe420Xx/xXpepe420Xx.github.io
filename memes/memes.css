@@ -1,7 +1,7 @@
 Body {
-	background-image: url('memback.bmp');
+	background-image: url('memback.gif');
 	Color: yellow;
-	background-size: 100px 100px;
+	background-size: 150px 150px;
 	background-attachment: fixed;
 	font-face:Comic Sans MS;
 }
