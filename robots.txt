@@ -8,7 +8,7 @@ User-agent: Google
 Disallow: 
 
 User-agent: Googlebot
-Disallow:
+Disallow: /
 
 User-agent: Googlebot-News
 Disallow:
