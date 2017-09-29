@@ -1,5 +1,10 @@
 #Stop looking at this filthy robot
 
+#Supposed to block everything else
+
+User-agent: *
+Disallow: /
+
 #Google
 
 Sitemap: http://xXpepe420Xx.github.io/sitemap.xml
@@ -8,7 +13,7 @@ User-agent: Google
 Disallow: 
 
 User-agent: Googlebot
-Disallow: /
+Disallow: 
 
 User-agent: Googlebot-News
 Disallow:
@@ -30,10 +35,7 @@ Disallow:
 User-agent: ia_archiver
 Disallow:
 
-#Supposed to block everything else
 
-User-agent: *
-Disallow: /
 
 
 
