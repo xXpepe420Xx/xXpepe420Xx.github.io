@@ -1,10 +1,5 @@
 #Stop looking at this filthy robot
 
-#Supposed to block everything else
-
-User-agent: *
-Disallow: /
-
 #Google
 
 Sitemap: http://xXpepe420Xx.github.io/sitemap.xml
