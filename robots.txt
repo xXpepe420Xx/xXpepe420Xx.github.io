@@ -1,9 +1,19 @@
 #Stop looking at this filthy robot
+
+#Google
+
+User-agent: Mediapartners-Google
+Disallow: 
+
 User-agent: Google
-Disallow:
+Disallow: 
+
+#Archive.org
 
 User-agent: ia_archiver
 Disallow:
+
+#Supposed to block everything else
 
 User-agent: *
 Disallow: /
