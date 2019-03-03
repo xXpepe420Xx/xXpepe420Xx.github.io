@@ -39,6 +39,6 @@ document.addEventListener('keydown', function(e) {
 
 function activateCheats() {
 	document.getElementById("text").innerHTML = "It is's saten dogo?!?!";
-	document.body.style.backgroundImage = "url('Satan_doge.jpg')"; //Changes background
+	document.body.style.backgroundImage = "url('xxpepe420xx.github.io/secret/Satan_doge.jpg')"; //Changes background
 	window.alert("POWER'S OF THE SATEN DOGO HAS BEN CALL UPON"); //Makes alert box
 }
